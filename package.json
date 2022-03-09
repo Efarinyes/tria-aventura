@@ -1,0 +1,11 @@
+{
+  "name": "tria-aventura",
+  "version": "1.0.0",
+  "description": "joc interactiu de desicions per a consola",
+  "main": "index.js",
+  "author": "Eduard Farinyes",
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
