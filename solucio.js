@@ -2,7 +2,7 @@ const readlineSync = require("readline-sync");
 
 const textos = [
   {
-    text: "Benvingut, jugues amb nosaltres?",
+    text: "Som a Santa Coloma de Gramanet, població del barcelonès on ens trobem a un Sr. Petit i eixerit que li esperen moltes aventures, ens acompanyes?",
     si: 1,
     no: 7,
   },
